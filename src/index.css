@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(52, 52, 110);
+}
+
+h1,
+li,
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.texto {
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.primeiro-paragrafo {
+    background-color: #F5F5F5;
+
+}
+
+.segundo-paragrafo {
+    background-color: #F0CCE2;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabela-moda {
+    border: 2px solid black;
+    width: 40%;
+    text-align: left;
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+    color: rgba(173, 76, 76, 0.9);
+    font-size: 17px;
+}
+
+.corpo-moda {
+    background-color: #424250;
+}
+.tabela-casa{
+    border: 2px solid white;
+    width: 40%;
+    text-align: left;
+}
+.cabecalho-casa{
+    background-color: #00C4B4;
+    font-size: 17px;
+}
+
+.corpo-casa{
+    background-color: #424250;
+}
